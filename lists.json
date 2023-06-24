@@ -1,0 +1,27 @@
+{
+  "workflow": {
+    "item": {
+      "vendorName": "",
+      "contactNo": 0,
+      "address": "",
+      "gstNumber": "",
+      "POItems": [
+        {
+          "itemName": "cotton",
+          "units": "Quintals",
+          "quantity": "50",
+          "gst": 12,
+          "rate": "3600",
+          "total": 21600
+        }
+      ],
+      "date": null,
+      "grossTotal": 21600,
+      "gst": 1800,
+      "NetTotal": 23400
+    },
+    "isAuthorized": 0,
+    "isScrutinized": 0,
+    "isApproved": 0
+  }
+}
